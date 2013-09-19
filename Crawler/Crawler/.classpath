@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/crawler4j"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/cssparser-0.9.8.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/guava-14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/htmlunit-2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/htmlunit-core-js-2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/httpmime-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/json-20080701.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/operadriver-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/phantomjsdriver-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/testng-6.8.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/MySqlConnector/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/apache-mime4j-core-0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/apache-mime4j-dom-0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/commons-compress-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/crawler4j-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/je-4.0.92.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/metadata-extractor-2.4.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/tika-core-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/CrawlerSpecificDependecies/tika-parsers-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/selenium-java-2.31.0.jar"/>
+	<classpathentry kind="lib" path="D:/Santhosh/SOC/Projects/863/Crawler Dependencies/selenium-2.31.0/selenium-java-2.31.0-srcs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
